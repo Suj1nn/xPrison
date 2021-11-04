@@ -1,0 +1,476 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="cc353b2c-9462-4122-8e39-9f559d884890" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/dylzqn/xprison/cells/inventories/Confirm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="238">
+              <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/java/me/dylzqn/xprison/cells/inventories/MainMenu.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Enum" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>sign</find>
+      <find>new ItemStack(Material.GREEN_STAINED_GLASS_PANE)</find>
+      <find>new ItemStack(Material.RED_STAINED_GLASS_PANE)</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>signState</replace>
+      <replace>e</replace>
+      <replace>confirm</replace>
+      <replace>decline</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/me/dylzqn/xprison/cells/inventories/MainMenu.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1215" />
+    <option name="width" value="715" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectId" id="1aeUBT07BVt8i7VdOmIfopIZY20" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="xPrison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xPrison" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xPrison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xPrison" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xPrison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xPrison" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xPrison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xPrison" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xPrison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xPrison" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xprison" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xPrison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xPrison" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xprison" type="462c0819:PsiDirectoryNode" />
+              <item name="cells" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="xPrison" type="b2602c69:ProjectViewProjectNode" />
+              <item name="xPrison" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="xprison" type="462c0819:PsiDirectoryNode" />
+              <item name="cells" type="462c0819:PsiDirectoryNode" />
+              <item name="inventories" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../xPlugins/xPermissions" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\dylan\OneDrive\Documents\Code\xCraft\xPrison\src\test\java" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cc353b2c-9462-4122-8e39-9f559d884890" name="Default Changelist" comment="" />
+      <created>1587095417118</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1587095417118</updated>
+      <workItem from="1587095419670" duration="5200000" />
+      <workItem from="1587103246902" duration="939000" />
+      <workItem from="1587104412122" duration="2806000" />
+      <workItem from="1587107269730" duration="1094000" />
+      <workItem from="1587110503524" duration="235000" />
+      <workItem from="1587112294433" duration="9000" />
+      <workItem from="1587202580769" duration="3925000" />
+      <workItem from="1587278193630" duration="5000" />
+      <workItem from="1587285229719" duration="2697000" />
+      <workItem from="1587295443060" duration="9886000" />
+      <workItem from="1587366640017" duration="3465000" />
+      <workItem from="1587524793996" duration="5615000" />
+      <workItem from="1587548158952" duration="6271000" />
+      <workItem from="1587556376325" duration="13829000" />
+      <workItem from="1587620841827" duration="8418000" />
+      <workItem from="1587632636391" duration="3996000" />
+      <workItem from="1587691605697" duration="515000" />
+      <workItem from="1587692145802" duration="11235000" />
+      <workItem from="1587704620308" duration="4414000" />
+      <workItem from="1587711459278" duration="581000" />
+      <workItem from="1587720789197" duration="208000" />
+      <workItem from="1587722827529" duration="51000" />
+      <workItem from="1587723024105" duration="13000" />
+      <workItem from="1587789546337" duration="148000" />
+      <workItem from="1587791367426" duration="372000" />
+      <workItem from="1587798235789" duration="606000" />
+      <workItem from="1587801458686" duration="5000" />
+      <workItem from="1587801720832" duration="11000" />
+      <workItem from="1587802468079" duration="12000" />
+      <workItem from="1587806060801" duration="38000" />
+      <workItem from="1587810412820" duration="13000" />
+      <workItem from="1587822901295" duration="1742000" />
+      <workItem from="1587876111322" duration="1254000" />
+      <workItem from="1587877906538" duration="932000" />
+      <workItem from="1587883207698" duration="7443000" />
+      <workItem from="1587970920685" duration="1340000" />
+      <workItem from="1587973344478" duration="8662000" />
+      <workItem from="1588056334646" duration="461000" />
+      <workItem from="1588056837418" duration="83000" />
+      <workItem from="1588057084562" duration="3492000" />
+      <workItem from="1588063578248" duration="2062000" />
+      <workItem from="1588079230078" duration="3323000" />
+      <workItem from="1588083892111" duration="2275000" />
+      <workItem from="1588153432008" duration="16049000" />
+      <workItem from="1588210387567" duration="25916000" />
+      <workItem from="1588325400639" duration="4955000" />
+      <workItem from="1588399677724" duration="3544000" />
+      <workItem from="1588411304093" duration="6597000" />
+      <workItem from="1588483303873" duration="35000" />
+      <workItem from="1588483420159" duration="13264000" />
+      <workItem from="1588745885787" duration="3539000" />
+      <workItem from="1588830836222" duration="803000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="803000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Image Layers" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Capture Tool" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18926175" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Theme Preview" />
+      <window_info anchor="right" id="Maven" />
+      <window_info anchor="right" id="Capture Analysis" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2472" y="88" key="#Project_Structure" timestamp="1587095460241">
+      <screen x="1920" y="-90" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="88" key="#Project_Structure/0.0.1920.1040/1920.-90.1920.1040@1920.-90.1920.1040" timestamp="1587095460241" />
+    <state x="2472" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587097736549">
+      <screen x="1920" y="-90" width="1920" height="1040" />
+    </state>
+    <state x="2472" y="88" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-90.1920.1040@1920.-90.1920.1040" timestamp="1587097736549" />
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser" timestamp="1588748638793">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="229" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1588748638793" />
+    <state x="2685" y="139" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/1920.-90.1920.1040@1920.-90.1920.1040" timestamp="1587559576073" />
+    <state x="507" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1588487685750">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="507" y="445" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1588487685750" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588494795637">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1588494795637" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1588416175300">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1588416175300" />
+    <state width="1877" height="286" key="GridCell.Tab.0.bottom" timestamp="1588751607454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1588751607454" />
+    <state width="914" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-90.1920.1040@1920.-90.1920.1040" timestamp="1588082593947" />
+    <state width="1877" height="286" key="GridCell.Tab.0.center" timestamp="1588751607454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1588751607454" />
+    <state width="914" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-90.1920.1040@1920.-90.1920.1040" timestamp="1588082593947" />
+    <state width="1877" height="286" key="GridCell.Tab.0.left" timestamp="1588751607454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1588751607454" />
+    <state width="914" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-90.1920.1040@1920.-90.1920.1040" timestamp="1588082593947" />
+    <state width="1877" height="286" key="GridCell.Tab.0.right" timestamp="1588751607454">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="286" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1588751607454" />
+    <state width="914" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-90.1920.1040@1920.-90.1920.1040" timestamp="1588082593947" />
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog" timestamp="1587710506501">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="490" y="175" key="Maven.ArtifactSearchDialog/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1587710506501" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1587569534041">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1587569534041" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588745890106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1588483421434" />
+    <state x="656" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040/1920.-90.1920.1040@1920.-90.1920.1040" timestamp="1588745890106" />
+    <state x="702" y="139" key="refactoring.ChangeSignatureDialog" timestamp="1587623568323">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="702" y="139" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1587623568323" />
+    <state x="2622" y="49" key="refactoring.ChangeSignatureDialog/0.0.1920.1040/1920.-90.1920.1040@1920.-90.1920.1040" timestamp="1587096701079" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1587535585296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1587535585296" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1588486532072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-90.1920.1040@0.0.1920.1040" timestamp="1588486532072" />
+    <state x="2543" y="135" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-90.1920.1040@1920.-90.1920.1040" timestamp="1587534021367" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/dylzqn/xprison/xPrisonCore.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1054">
+          <caret line="23" column="13" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/dylzqn/xprison/cells/inventories/Confirm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="24" column="18" lean-forward="true" selection-start-line="24" selection-start-column="18" selection-end-line="24" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/me/dylzqn/xprison/cells/inventories/MainMenu.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="52" column="17" selection-start-line="52" selection-start-column="17" selection-end-line="52" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>11</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>xprison</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.google.code.gson:gson:2.8.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

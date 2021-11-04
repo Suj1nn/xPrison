@@ -1,0 +1,58 @@
+name: xPrison
+version: 1.0
+api-version: 1.15
+main: me.dylzqn.xprison.xPrisonCore
+description: xCraft's Prison
+author: TheKawaiiAsian
+depends: [xCraftAPI]
+
+commands:
+  help:
+    usage: /help
+    aliases: []
+    description: Help Command
+
+  kit:
+    usage: /kit
+    aliases: []
+    description: Kit Command
+
+  spawn:
+    usage: /spawn
+    aliases: []
+    description: Spawn Command
+
+  warp:
+    usage: /warp
+    aliases: []
+    description: Warp Command
+
+  test:
+    usage: /test
+    aliases: []
+    description: Test Command
+
+  balance:
+    usage: /balance
+    aliases: [bal, money]
+    description: Balance Command
+
+  eco:
+    usage: /eco
+    aliases: [economy]
+    description: Economy Command
+
+  rankup:
+    usage: /rankup
+    aliases: [levelup]
+    description: Rankup Command
+
+  message:
+    usage: /message
+    aliases: [msg, tell]
+    description: Message Command
+
+  trade:
+    usage: /trade
+    aliases: []
+    description: Trade Command
